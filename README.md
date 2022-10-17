@@ -9,5 +9,19 @@ Mehmet Ozgur Turkoglu, Alexander Becker, Hüseyin Anil Gündüz, Mina Rezaei, Be
 <img src="assets/method.png" alt="Method overview">
 
 
+## ✏️ 📄 Citation
 
+If you find our work useful or interesting, please cite our paper:
+
+```latex
+@inproceedings{turkoglu2022film,
+  title={FiLM-Ensemble: Probabilistic Deep Learning via Feature-wise Linear Modulation},
+  author={Turkoglu, Mehmet Ozgur and Becker, Alexander and G{\"u}nd{\"u}z, H{\"u}seyin Anil and Rezaei, Mina and Bischl, Bernd and Daudt, Rodrigo Caye and D'Aronco, Stefano and Wegner, Jan Dirk and Schindler, Konrad},
+  booktitle={Advances in Neural Information Processing Systems},
+  year={2022}
+}
+```
+
+## Reproducing results: Cifar-10 / Cifar-100
+ 
 Code and models are comming soon...
