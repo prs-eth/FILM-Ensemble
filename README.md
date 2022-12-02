@@ -2,7 +2,8 @@
 Mehmet Ozgur Turkoglu, Alexander Becker, Hüseyin Anil Gündüz, Mina Rezaei, Bernd Bischl, Rodrigo Caye Daudt, Stefano D'Aronco, Jan Dirk Wegner, and Konrad Schindler. - **Neurips 2022**.
 
 
-[ \[Paper on ArXiv\] ](https://arxiv.org/abs/2206.00050)
+[ \[Paper on ArXiv\] ](https://arxiv.org/abs/2206.00050) [ \[Poster\] ](https://neurips.cc/media/PosterPDFs/NeurIPS%202022/53071.png?t=1669493329.1428604)
+
 
 ## 🌌 Overview
 
