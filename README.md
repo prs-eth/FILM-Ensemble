@@ -25,4 +25,11 @@ If you find our work useful or interesting, please cite our paper:
 
 ## Reproducing results: Cifar-10 / Cifar-100
  
-Code and models are comming soon...
+### Installation
+```
+pip install -r requirements.txt
+```
+
+### Training
+```
+python main.py -e {number of ensemble}
